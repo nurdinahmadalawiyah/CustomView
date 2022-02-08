@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nurdin/Documents/Dicoding/Belajar_Fundamental_Aplikasi_Android/Layout/MyCustomView/app/src/main/res/drawable/bg_button.xml" value="0.102" />
+        <entry key="..\:/Users/Nurdin/Documents/Dicoding/Belajar_Fundamental_Aplikasi_Android/Layout/MyCustomView/app/src/main/res/drawable/bg_button_disable.xml" value="0.102" />
         <entry key="..\:/Users/Nurdin/Documents/Dicoding/Belajar_Fundamental_Aplikasi_Android/Layout/MyCustomView/app/src/main/res/layout/activity_main.xml" value="0.15625" />
       </map>
     </option>
